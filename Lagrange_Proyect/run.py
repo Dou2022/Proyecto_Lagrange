@@ -5,8 +5,8 @@ import sympy as sym
 import matplotlib.pyplot as plt
 
 # INGRESO , Datos de prueba
-xi = np.array([0.1, 0.2, 0.3, 0.4])
-fi = np.array([1, 1.6, 1.7, 2.0])
+xi = np.array([5,7,13])
+fi = np.array([3090,3940,4755])
 
 # PROCEDIMIENTO
 # Polinomio de Lagrange
